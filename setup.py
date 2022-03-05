@@ -11,8 +11,8 @@ setup(
     description='Scintilla - Generate DataFrame for property based testing',
     python_requires='>=3.7',
     install_requires=[
-        'Faker==8.14.0'
-        'pyspark==3.0.1'
-        'prettytable==3.1.1'
+        'Faker==8.14.0',
+        'pyspark==3.0.1',
+        'prettytable==3.1.1',
     ]
 )
