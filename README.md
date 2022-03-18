@@ -6,7 +6,7 @@ Scintilla is a small Python library that makes use of Faker to generate multiple
 that can then be used for property based testing.
 
 If you're looking for a library to test DataFrame assertions I recommend using 
-the [chispa](https://github.com/MrPowers/chispa) library as it contains several method to help in comparing DataFrames.
+the [chispa](https://github.com/MrPowers/chispa) library as it contains several methods to help in comparing DataFrames.
 
 ## DataFrame Generator
 
